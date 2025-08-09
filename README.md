@@ -1,4 +1,4 @@
-- 👋 Hey there, I'm @429error
+- 👋 Hey there, I'm @429error AKA Sneha 
 - 👀 I'm a passionate learner and a curious explorer of the computer science world.
 - 🌱 I'm currently diving deep and learning everything I can to kickstart my career.
 - 💞️ I'm eager to collaborate on any project that presents a good learning opportunity.
